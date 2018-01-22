@@ -1,4 +1,4 @@
-##os.path使用示例
+## os.path使用示例
 
 ### 0. 前置
 - import os.path module
