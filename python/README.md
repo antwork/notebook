@@ -1,4 +1,4 @@
-# Python学习笔记
+# Python学习笔记 :neckbeard:
 记录python学习成长历程
 
 #### 基础知识
