@@ -5,3 +5,4 @@
 1. [os.path使用](./notes/os_path.md)
 2. [python文件格式](./notes/python_file_struct.md)
 3. [面向对象编程](./notes/oop.md)
+4. [import](./notes/import.md)
