@@ -6,4 +6,5 @@
 2. [python文件格式](./notes/python_file_struct.md)
 3. [面向对象编程](./notes/oop.md)
 4. [import](./notes/import.md)
-4. [import补充](./notes/importmore.md)
+5. [import补充](./notes/importmore.md)
+6. [list comprehensions](./notes/listcomprehnsions.md)
